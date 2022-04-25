@@ -5,3 +5,5 @@ More than 80 percent of American adults had at least one credit card in 2020, ac
 -Credit card default happens when a borrower does not make the required payments. 
 
 -Goal: Identify the features which we can predict whether a customer will default on their credit card payment or not. 
+
+-Data set: American Express https://www.kaggle.com/datasets/pradip11/amexpert-codelab-2021?select=train.csv
